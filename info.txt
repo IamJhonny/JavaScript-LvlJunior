@@ -1,0 +1,28 @@
+//PROGRAMACION ORIENTADA A OBJETOS P.O.O
+La Programación Orientada a Objetos (POO) es un paradigma de programación que se basa en la idea de modelar 
+el mundo real como una colección de objetos que interactúan entre sí. En la POO, los objetos son entidades 
+que representan elementos o conceptos del mundo real, y se caracterizan por tener propiedades (atributos) y 
+comportamientos (métodos) asociados.
+
+La programación orientada a objetos se centra en el diseño y la creación de clases, que son plantillas 
+o moldes que definen las características y comportamientos comunes de un conjunto de objetos relacionados. 
+Una clase sirve como un plano para crear objetos individuales, y cada objeto creado a partir de una clase 
+se conoce como una instancia.
+
+Las principales características de la programación orientada a objetos son:
+
+Abstracción: Permite enfocarse en los aspectos esenciales de un objeto y ocultar los detalles irrelevantes.
+
+Encapsulación: Permite agrupar datos y los métodos que operan sobre esos datos en una sola entidad llamada 
+clase, protegiendo el acceso directo a los datos internos del objeto y proporcionando interfaces para 
+interactuar con ellos.
+
+Herencia: Permite crear nuevas clases basadas en clases existentes, heredando sus propiedades y 
+comportamientos. La herencia facilita la reutilización de código y la organización jerárquica de las clases.
+
+Polimorfismo: Permite que objetos de diferentes clases respondan a un mismo mensaje o método de forma 
+distinta, lo que proporciona flexibilidad y extensibilidad al sistema.
+
+La programación orientada a objetos se utiliza ampliamente en muchos lenguajes de programación populares, 
+como Java, C++, Python, C#, entre otros. Proporciona un enfoque estructurado y modular para el desarrollo 
+de software, lo que facilita la creación de programas más robustos, mantenibles y escalables.
