@@ -216,7 +216,45 @@ genero("<b> Masculino </b>");*/
 
 //console.log(radio);
 
+//!CONSOLA
+//console.log("%cjhonny","color:red; background:black; padding:20px; border:2px solid green;");
 
+
+//TODO DOM
+//* Nodos 
+//? Metodos de Selección de Elementos
+//parrafo = document.getElementById("parrafo");
+//document.getElementsByTagName(".parrafo");
+//document.querySelector();
+//document.querySelectorAll();
+
+//? Metodos para Definir, Obtener y Eliminar valores de atributos
+//const rangeY = document.querySelector(".rangeY");
+//rangeY.setAttribute("type", "color"); //* Modifica el valor de un atributo
+
+//let valorDelAtributo = rangeY.getAttribute("type");
+//document.write(valorDelAtributo); //* Obtiene el valor de un atributo
+
+//const rangeY = document.querySelector(".rangeY");
+//rangeY.removeAttribute("type", ""); //* Remueve el valor de un atributo
+
+//! Globales
+//let title = document.getElementById("titulo");
+//title.setAttribute("contentEditable", "true"); //* indica si el elemento puede ser modificado por el usuario (bool)
+
+//let maria = document.querySelector(".name");
+//maria.removeAttribute("hidden"); //* hidden, oculta el contenido seleccionado
+
+//? Inputs
+let entrada = document.querySelector(".rangeY");
+entrada.type = "text"; //* Modicar desde JS
+
+let input = document.querySelector(".input-normal");
+input.accept = "image/png"; //* Solo acepta imagenes en formato png [image/gif]
+
+//? Style
+let encabezado = document.getElementById("titulo");
+encabezado.style.color = "darkgreen";
 
 
 
